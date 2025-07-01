@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👩🏻‍💻 Mariana Serpa
 
-<!--
-**MarySerps/MarySerps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Ciências da Computação**
 
-Here are some ideas to get you started:
+Me chamo Mariana Serpa, tenho 20 anos e sou estudante de Ciências da Computação na PUCRS, estou no primeiro semestre. Sou apaixonada em tecnologia e pretendo aprender cada vez mais sobre, tenho o objetivo de programar jogos futuramente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Aprendizado Atual
+- Java (conceitos iniciais e lógica de programação)  
+- Fundamentos de desenvolvimento web: HTML, CSS e JavaScript
+
+## 🛠️ Interesses e Objetivos
+- Iniciar projetos voltados ao desenvolvimento de jogos  
+- Aprender engines como **Unity** ou **Godot**  
+- Aprofundar meus conhecimentos em programação e design de jogos  
+- Compartilhar minha evolução e projetos aqui no GitHub
+
+## 📫 Contato
+- E-mail: [marianacserpa@gmail.com](mailto:marianacserpa@gmail.com)  
+- LinkedIn: [[linkedin.com/in/marianacserpa](https://www.linkedin.com/in/marianacserpa/)
+
+## 🌐 Idiomas
+- Nativo: Português  
+- Básico: Espanhol e Inglês
