@@ -2,8 +2,7 @@
 
 **Estudante de Ciências da Computação**
 
-Me chamo Mariana Serpa, tenho 20 anos e sou estudante de Ciências da Computação na PUCRS, estou no primeiro semestre. Sou apaixonada em tecnologia e pretendo aprender cada vez mais sobre, tenho o objetivo de programar jogos futuramente.
-
+Oi! Eu sou a Mariana, estudante de Ciência da Computação na PUCRS. Adoro tecnologia e estou dando meus primeiros passos no mundo da programação. Meu sonho é desenvolver jogos, e estou começando a aprender Java, HTML, CSS e JavaScript.
 ## 🎮 Aprendizado Atual
 - Java (conceitos iniciais e lógica de programação)  
 - Fundamentos de desenvolvimento web: HTML, CSS e JavaScript
