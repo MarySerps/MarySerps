@@ -16,7 +16,7 @@ Me chamo Mariana Serpa, tenho 20 anos e sou estudante de Ciências da Computaç�
 
 ## 📫 Contato
 - E-mail: [marianacserpa@gmail.com](mailto:marianacserpa@gmail.com)  
-- LinkedIn: [[linkedin.com/in/marianacserpa](https://www.linkedin.com/in/marianacserpa/)
+- LinkedIn:[linkedin.com/in/marianacserpa](https://www.linkedin.com/in/marianacserpa/)
 
 ## 🌐 Idiomas
 - Nativo: Português  
