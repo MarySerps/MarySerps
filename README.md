@@ -19,4 +19,4 @@ Oi! Eu sou a Mariana, estudante de Ciência da Computação na PUCRS. Adoro tecn
 
 ## 🌐 Idiomas
 - Nativo: Português  
-- Básico: Espanhol e Inglês
+- Básico: Espanhol
