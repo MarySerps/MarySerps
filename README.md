@@ -30,22 +30,20 @@
 
 ---
 
-## 🛠 Linguagens & Ferramentas (Tech Stack)
+## 🛠 Linguagens & Ferramentas
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,figma,mysql,aws&theme=dark" />
 </div>
 
 ---
 
-## 📊 GitHub Dashboard (Purple Mode)
+## 📊 GitHub Dashboard
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarySerps&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=bf91f3&text_color=d8b4fe&icon_color=bf91f3"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarySerps&layout=compact&langs_count=7&theme=radical&title_color=bf91f3&text_color=d8b4fe"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarySerps&theme=react-dark&area=true&color=bf91f3" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarySerps&theme=radical&fire=bf91f3&ring=bf91f3&sideNums=d8b4fe&currStreakLabel=bf91f3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarySerps&theme=radical&fire=bf91f3&ring=bf91f3" />
 </div>
 
 ---
