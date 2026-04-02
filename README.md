@@ -1,22 +1,84 @@
-## 👩🏻‍💻 Mariana Serpa
+<div align="center">
 
-**Estudante de Ciências da Computação**
+<img src="Pixel Glitch GIF - Find & Share on GIPHY.gif" width="100%" height="250px" style="object-fit: cover; border-radius: 10px;" />
 
-Oi! Eu sou a Mariana, estudante de Ciência da Computação na PUCRS. Adoro tecnologia e estou dando meus primeiros passos no mundo da programação. Meu sonho é desenvolver jogos, e estou começando a aprender Java, HTML, CSS e JavaScript.
-## 🎮 Aprendizado Atual
-- Java (conceitos iniciais e lógica de programação)  
-- Fundamentos de desenvolvimento web: HTML, CSS e JavaScript
+# 💜 Olá, eu sou a Mariana Serpa! 👾
+### **Estudante de Ciência da Computação @ PUCRS | Futura Game Dev**
 
-## 🛠️ Interesses e Objetivos
-- Iniciar projetos voltados ao desenvolvimento de jogos  
-- Aprender engines como **Unity** ou **Godot**  
-- Aprofundar meus conhecimentos em programação e design de jogos  
-- Compartilhar minha evolução e projetos aqui no GitHub
+---
 
-## 📫 Contato
-- E-mail: [marianacserpa@gmail.com](mailto:marianacserpa@gmail.com)  
-- LinkedIn:[linkedin.com/in/marianacserpa](https://www.linkedin.com/in/marianacserpa/)
+<a href="https://www.linkedin.com/in/marianacserpa/">
+  <img src="https://img.shields.io/badge/linkedin-%238A2BE2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:marianacserpa@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-## 🌐 Idiomas
-- Nativo: Português  
-- Básico: Espanhol
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=MarySerps&color=blueviolet&style=flat-square&label=PERFIL+VIEWS" alt="Views" />
+
+</div>
+
+---
+
+## 📖 Sobre Mim
+
+- 🎓 Cursando **Ciência da Computação** na PUCRS.
+- ☕ Desenvolvendo o **RPGTurn**, um jogo de combate por turnos em Java.
+- ☁️ Explorando **AWS**, **n8n** e automação.
+
+---
+
+## 🛠 Linguagens & Ferramentas (Tech Stack)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github,vscode,figma,mysql,aws&theme=dark" />
+</div>
+
+---
+
+## 📊 GitHub Dashboard (Purple Mode)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarySerps&show_icons=true&theme=radical&include_all_commits=true&count_private=true&title_color=bf91f3&text_color=d8b4fe&icon_color=bf91f3"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarySerps&layout=compact&langs_count=7&theme=radical&title_color=bf91f3&text_color=d8b4fe"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarySerps&theme=radical&fire=bf91f3&ring=bf91f3&sideNums=d8b4fe&currStreakLabel=bf91f3" />
+</div>
+
+---
+
+## ⚔️ Projeto em Destaque: RPGTurn
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%">
+        <p align="left">
+          Meu projeto principal focado em <b>Programação Orientada a Objetos</b>. 
+          Um sistema de RPG por turnos onde aplico lógica de combate.
+        </p>
+        <p align="left">
+          <b>Skills:</b> Java, Game Logic, Software Architecture.
+        </p>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://img.shields.io/badge/Status-Leveling_Up-blueviolet?style=for-the-badge&logo=java" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<br />
+
+<div align="center">
+  <p><i>"A lógica te leva de A a B. A imaginação te leva a qualquer lugar."</i></p>
+  <img src="https://raw.githubusercontent.com/Trinibyte/Trinibyte/main/assets/line-purple.gif" width="100%">
+</div>
